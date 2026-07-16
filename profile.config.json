@@ -3,33 +3,38 @@
   "profile": {
     "name": "Chandra Syahputra",
     "username": "chandrasyahputra898",
-    "headline": "Lead Software Engineer & Tech Builder",
+    "headline": "Lead Software Engineer & AgriTech Builder",
     "affiliation": "GeoHarvest",
     "location": "Medan, Indonesia",
-    "status": "Scaling agricultural technology platforms",
+    "status": "Building resilient agricultural supply chain software",
     "about": [
-      "I design and build software systems at the intersection of agriculture, supply chain traceability, and mobile tech.",
-      "My work focuses on architecting offline-first mobile solutions, secure sync protocols, and developer-friendly tooling."
+      "I architect and build software systems at the intersection of agriculture, supply chain traceability, and offline-first mobile technology.",
+      "My work focuses on designing resilient data sync mechanisms, secure audit logs, and developer-friendly tooling for remote environments.",
+      "I specialize in building transaction systems that work reliably even in low-connectivity scenarios across agricultural networks."
     ]
   },
   "research": {
-    "primary": "AgriTech Traceability",
-    "direction": "Decentralized supply chain software",
-    "themes": "Traceability / Offline Sync / Security",
-    "narrative": "I am interested in building resilient data sync mechanisms and secure audit logs that allow agricultural transactions to be recorded reliably, even in remote or low-connectivity environments."
+    "primary": "AgriTech Supply Chain Systems",
+    "direction": "Decentralized traceability and offline-first architectures",
+    "themes": "Traceability / Offline Sync / Data Security / Mobile-First",
+    "narrative": "I am focused on building resilient data sync mechanisms and secure audit logs that allow agricultural transactions to be recorded reliably, even in remote or low-connectivity environments. My research explores how to design systems that maintain transaction integrity across distributed networks without requiring constant connectivity."
   },
   "focus": [
     {
-      "name": "AgriTech Platforms",
-      "description": "Designing transaction and quota management systems for sustainable supply chains."
+      "name": "Supply Chain Traceability",
+      "description": "Designing transaction and quota management systems that track agricultural products from farm to consumer with verifiable audit logs."
     },
     {
       "name": "Offline-First Mobile",
-      "description": "Developing robust data synchronization architectures for Android and mobile devices."
+      "description": "Developing robust data synchronization architectures for Android and mobile applications that work reliably offline."
     },
     {
-      "name": "Data Security",
-      "description": "Implementing secure local database encryption (AES-256) and API key protections."
+      "name": "Secure Database Design",
+      "description": "Implementing encrypted local storage (AES-256), secure sync protocols, and cryptographic audit trails for sensitive transactions."
+    },
+    {
+      "name": "Backend Architecture",
+      "description": "Building scalable Node.js and Python backends that handle complex agricultural workflows and quota management systems."
     }
   ],
   "projects": [
@@ -37,9 +42,25 @@
       "name": "GeoHarvest App",
       "url": "https://github.com/chandrasyahputra898/Chandra",
       "homepage": "",
-      "focus": "Traceability & Transactions",
-      "summary": "Mobile and web client platforms for managing supply chain logistics, quota tracking, and transactions.",
+      "focus": "Traceability & Transaction Management",
+      "summary": "Comprehensive mobile and web platform for managing agricultural supply chains, quota tracking, and transaction verification.",
       "heroLabel": "Main Platform"
+    },
+    {
+      "name": "GeoFormMobile",
+      "url": "https://github.com/chandrasyahputra898/GeoFormMobile",
+      "homepage": "",
+      "focus": "Offline-First Field Application",
+      "summary": "Android GIS field application for offline data collection with spatial data capture and automatic sync capabilities.",
+      "heroLabel": "Field Operations"
+    },
+    {
+      "name": "GeoForm-Web",
+      "url": "https://github.com/chandrasyahputra898/GeoForm-Web",
+      "homepage": "",
+      "focus": "Web Dashboard & Management",
+      "summary": "TypeScript-based web dashboard for monitoring, analyzing, and managing field data with real-time sync from mobile applications.",
+      "heroLabel": "Web Interface"
     }
   ],
   "techStack": [
@@ -47,10 +68,14 @@
     "React Native",
     "Node.js",
     "Python",
+    "Kotlin",
     "PostgreSQL",
     "SQLite",
     "AES-256",
-    "Docker"
+    "Docker",
+    "Android",
+    "REST APIs",
+    "GraphQL"
   ],
   "links": [
     {
@@ -68,5 +93,5 @@
   "appearance": {
     "palette": "signal"
   },
-  "footer": "Building reliable tools that bridge real-world supply chains with modern software."
+  "footer": "Building reliable tools that bridge real-world agricultural supply chains with modern software architecture."
 }
