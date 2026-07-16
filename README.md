@@ -44,7 +44,7 @@ I am focused on building resilient data sync mechanisms and secure audit logs th
 
 ## Tech Stack
 
-`TypeScript` · `React Native` · `Node.js` · `Python` · `Kotlin` · `PostgreSQL` · `SQLite` · `AES-256` · `Docker` · `Android` · `REST APIs` · `GraphQL`
+![TypeScript](https://img.shields.io/badge/TypeScript-1E293B?style=flat-square&logo=typescript&logoColor=60A5FA) ![React Native](https://img.shields.io/badge/React%20Native-1E293B?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-1E293B?style=flat-square&logo=nodedotjs&logoColor=4ADE80) ![Python](https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=FACC15) ![Kotlin](https://img.shields.io/badge/Kotlin-1E293B?style=flat-square&logo=kotlin&logoColor=A78BFA) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square&logo=postgresql&logoColor=93C5FD) ![SQLite](https://img.shields.io/badge/SQLite-1E293B?style=flat-square&logo=sqlite&logoColor=38BDF8) ![AES-256](https://img.shields.io/badge/AES--256-1E293B?style=flat-square&logo=auth0&logoColor=F87171) ![Docker](https://img.shields.io/badge/Docker-1E293B?style=flat-square&logo=docker&logoColor=38BDF8) ![Android](https://img.shields.io/badge/Android-1E293B?style=flat-square&logo=android&logoColor=4ADE80) ![REST APIs](https://img.shields.io/badge/REST%20APIs-1E293B?style=flat-square&logo=postman&logoColor=F97316) ![GraphQL](https://img.shields.io/badge/GraphQL-1E293B?style=flat-square&logo=graphql&logoColor=F472B6)
 
 ## Recent Activity
 
