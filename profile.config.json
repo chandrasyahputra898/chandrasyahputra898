@@ -6,7 +6,7 @@
     "headline": "Lead Software Engineer & AgriTech Builder",
     "affiliation": "GeoHarvest",
     "location": "Medan, Indonesia",
-    "status": "Building resilient agricultural supply chain software",
+    "status": "Building AgriTech supply chain software",
     "about": [
       "I architect and build software systems at the intersection of agriculture, supply chain traceability, and offline-first mobile technology.",
       "My work focuses on designing resilient data sync mechanisms, secure audit logs, and developer-friendly tooling for remote environments.",
@@ -14,9 +14,9 @@
     ]
   },
   "research": {
-    "primary": "AgriTech Supply Chain Systems",
-    "direction": "Decentralized traceability and offline-first architectures",
-    "themes": "Traceability / Offline Sync / Data Security / Mobile-First",
+    "primary": "AgriTech Supply Chain",
+    "direction": "Offline-first traceability systems",
+    "themes": "Traceability / Offline Sync / Security",
     "narrative": "I am focused on building resilient data sync mechanisms and secure audit logs that allow agricultural transactions to be recorded reliably, even in remote or low-connectivity environments. My research explores how to design systems that maintain transaction integrity across distributed networks without requiring constant connectivity."
   },
   "focus": [
@@ -40,7 +40,7 @@
   "projects": [
     {
       "name": "GeoHarvest App",
-      "url": "https://github.com/chandrasyahputra898/Chandra",
+      "url": "https://github.com/chandrasyahputra898/Chandra-backup",
       "homepage": "",
       "focus": "Traceability & Transaction Management",
       "summary": "Comprehensive mobile and web platform for managing agricultural supply chains, quota tracking, and transaction verification.",
